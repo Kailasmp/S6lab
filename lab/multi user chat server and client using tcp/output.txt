@@ -1,0 +1,9 @@
+gcc server.c -pthread
+./a.out
+
+
+
+
+
+gcc client.c -pthread
+./a.out client_name
